@@ -31,3 +31,10 @@ MyPortfoli : [Click here](http://lala.la)
 *italics*
 _italics_
 
+`console.log("Hi")`
+
+```
+void Main() {
+  Console.Writeline("Hey!");
+}
+```
